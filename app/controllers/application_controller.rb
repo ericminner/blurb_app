@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   
   def tfw
-    render html:"tfw no gf"
+    render html:"What's on your mind?"
   end
 end
