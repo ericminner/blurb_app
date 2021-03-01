@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   
-  def tfw
+  def blurb
     render html:"What's on your mind?"
   end
 end
